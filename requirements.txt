@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+transformers
+numpy
+pandas
+seaborn
+scipy
+--extra-index-url https://download.pytorch.org/whl/cpu
